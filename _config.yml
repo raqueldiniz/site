@@ -1,5 +1,5 @@
 # Site settings
-title: "Revisão de Textos"
+title: "Orientação & Revisão de Textos"
 description: "..."
 baseurl: ""
 url: ""
@@ -17,8 +17,10 @@ plugins:
 links:
   - title: "Sobre"
     url: /sobre
-  - title: "Pacotes"
-    url: /pacotes
+  - title: "Serviços"
+    url: /serviços
+  - title: "Trabalhos realizados"
+    url: /trabalhos-realizados
   - title: "Depoimentos"
     url: /depoimentos
   - title: "Contato"
