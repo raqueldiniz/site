@@ -1,5 +1,5 @@
 # Site settings
-title: "Typewriter"
+title: "Revisao"
 description: "So I was feeling nostalgic."
 baseurl: ""
 url: "http://alixedi.github.io"
@@ -8,7 +8,7 @@ url: "http://alixedi.github.io"
 markdown: kramdown
 permalink: pretty
 highlighter: pygments
-paginate: 3
+paginate: 5
 
 plugins: 
   - jekyll-paginate
@@ -17,9 +17,5 @@ plugins:
 links:
   - title: "abt"
     url: /about
-  - title: "twt"
-    url: http://twitter.com/alixedi
-  - title: "git"
-    url: http://github.com/alixedi
-  - title: "rss"
-    url: /feed.xml
+  - title: "outra"
+    url: /outra
