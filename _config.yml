@@ -10,6 +10,9 @@ permalink: pretty
 highlighter: pygments
 paginate: 3
 
+plugins: 
+  - jekyll-paginate
+
 # Links
 links:
   - title: "abt"
