@@ -1,8 +1,8 @@
 # Site settings
-title: "Revisao"
-description: "So I was feeling nostalgic."
+title: "Revisão de Textos"
+description: "..."
 baseurl: ""
-url: "http://alixedi.github.io"
+url: ""
 
 # Build settings
 markdown: kramdown
@@ -15,7 +15,11 @@ plugins:
 
 # Links
 links:
-  - title: "abt"
-    url: /about
-  - title: "outra"
-    url: /outra
+  - title: "Sobre"
+    url: /sobre
+  - title: "Pacotes"
+    url: /pacotes
+  - title: "Depoimentos"
+    url: /depoimentos
+  - title: "Contato"
+    url: /contato
