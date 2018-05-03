@@ -6,7 +6,7 @@ permalink: /sobre/
 
 Olá! Meu nome é Raquel. Sou canceriana, do dia de São João. Casada e mãe de três. Amante das letras, das palavras, dos textos. Nasci em Taguatinga/DF, morei seis anos em João Pessoa/PB e atualmente estou em Amsterdã, na Holanda. 
 
-Concluí minha graduação em Letras com habilitação em Língua Portuguesa e Respectiva Literatura (licenciatura e bacharelado), pela Universidade de Brasília (UnB), em 2010. Cursei uma especialização a distância em Língua Portuguesa, pelo Centro Universitário Barão de Mauá, em 2012, já em João Pessoa. E defendi meu mestrado em Linguística Aplicada (veja minha dissertação aqui), pelo Programa de Pós-Graduação em Linguística da Universidade Federal da Paraíba (Proling-UFPB), em 2017.
+Concluí minha graduação em Letras com habilitação em Língua Portuguesa e Respectiva Literatura (licenciatura e bacharelado), pela Universidade de Brasília (UnB), em 2010. Cursei uma especialização a distância em Língua Portuguesa, pelo Centro Universitário Barão de Mauá, em 2012, já em João Pessoa. E defendi meu mestrado em Linguística Aplicada (veja minha dissertação (aqui)[/trabalhos-realizados/]), pelo Programa de Pós-Graduação em Linguística da Universidade Federal da Paraíba (Proling-UFPB), em 2017.
 
 Meu primeiro contato com revisão de textos foi no final da minha graduação, quando estudei o assunto brevemente em uma disciplina do curso. Ainda na mesma época, fiz estágio no Superior Tribunal Federal. Foi quando me apaixonei! <3
 
