@@ -4,7 +4,7 @@ title: Serviços
 permalink: /servicos/
 ---
 
-A seguir estão descritos os serviços que executo com um valor médio de preço. Para solicitar um orçamento e ter o valor exato, bem como para verificar outros serviços que não constam aqui, entre em contato comigo.
+A seguir estão descritos os serviços que executo com uma média de preço. Para solicitar um orçamento e ter o valor exato, bem como para verificar outros serviços que não constam aqui, entre em [contato](/contato/) comigo.
 
 ## 1. Orientação textual
 
@@ -32,4 +32,4 @@ R$13/página (trabalhos com até 15 páginas)
 
 R$10/página (trabalhos com mais de 15 páginas)
 
-***OBS.:** uma página contém aproximadamente 400 palavras.
+****OBS.:** uma página contém aproximadamente 400 palavras.*
