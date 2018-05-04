@@ -24,7 +24,8 @@ Ou envie sua mensagem pelo formulário a seguir:
   </p>
   <p>
     <label>Arquivo: <input type="file" name="arquivo">
-  <p/>
+  </p>
   <p>
     <button type="submit">Enviar</button>
-  </p></form>
+  </p>
+</form>
