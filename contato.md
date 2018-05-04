@@ -4,24 +4,27 @@ title: Contato
 permalink: /contato/
 ---
 
-E-mail: raquelribeirodiniz@gmail.com
+**E-mail:** raquelribeirodiniz@gmail.com
 
-Telefone: +31 0641393819
+**Telefone:** +31 0641393819
 
 Envie sua mensagem pelo formulário abaixo:
 
 
 <form name="contact" method="POST" netlify>
   <p>
-    <label>Your Name: <input type="text" name="name"></label>   
+    <label>Nome: <input type="text" nome="nome"></label>   
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email"></label>
+    <label>E-mail: <input type="email" name="email"></label>
   </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Mensagem: <textarea name="mensagem"></textarea></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <label>Arquivo: <input type="file" name="arquivo">
+  <p/>
+  <p>
+    <button type="submit">Enviar</button>
   </p>
 </form>
