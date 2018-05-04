@@ -14,15 +14,15 @@ Ou envie sua mensagem pelo formulário a seguir:
 
 <form name="contact" method="POST" netlify>
   
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="2" cellspacing="0">
 <tr>
-  <td>Nome:</td><td><input type="text" nome="nome" size="50"></td>
+  <td align="right">Nome:</td><td><input type="text" nome="nome" size="50"></td>
 </tr>   
   <tr>
-    <td>E-mail:</td><td><input type="email" name="email" size="50"></td>
+    <td align="right">E-mail:</td><td><input type="email" name="email" size="50"></td>
   </tr>
   <tr>
-    <td style=" vertical-align: top;">Mensagem:</td><td><textarea name="mensagem" rows="10" cols="48"></textarea></td>
+    <td style="vertical-align: top;">Mensagem:</td><td><textarea name="mensagem" rows="10" cols="48"></textarea></td>
   </tr>
   <tr>
     <td>Arquivo:</td><td><input type="file" name="arquivo"></td>
