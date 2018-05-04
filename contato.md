@@ -22,7 +22,7 @@ Ou envie sua mensagem pelo formulário a seguir:
     <td>E-mail:</td><td><input type="email" name="email" size="50"></td>
   </tr>
   <tr>
-    <td>Mensagem:</td><td><textarea name="mensagem" rows="10" cols="48"></textarea></td>
+    <td style=" vertical-align: top;">Mensagem:</td><td><textarea name="mensagem" rows="10" cols="48"></textarea></td>
   </tr>
   <tr>
     <td>Arquivo:</td><td><input type="file" name="arquivo"></td>
