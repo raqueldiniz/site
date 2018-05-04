@@ -23,7 +23,7 @@ Ou envie sua mensagem pelo formulário a seguir:
     <label>Mensagem: <textarea name="mensagem"></textarea></label>
   </p>
   <p>
-    <label>Arquivo: <input type="file" name="arquivo">
+    <label>Arquivo: <input type="file" name="arquivo"></label>
   </p>
   <p>
     <button type="submit">Enviar</button>
