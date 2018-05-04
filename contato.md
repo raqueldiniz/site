@@ -16,13 +16,13 @@ Ou envie sua mensagem pelo formulário a seguir:
   
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-  <td>Nome:</td><td><input type="text" nome="nome"></td>
+  <td>Nome:</td><td><input type="text" nome="nome" size="50"></td>
 </tr>   
   <tr>
-    <td>E-mail:</td><td><input type="email" name="email"></td>
+    <td>E-mail:</td><td><input type="email" name="email" size="50"></td>
   </tr>
   <tr>
-    <td>Mensagem:</td><td><textarea name="mensagem"></textarea></td>
+    <td>Mensagem:</td><td><textarea name="mensagem" rows="10" cols="48"></textarea></td>
   </tr>
   <tr>
     <td>Arquivo:</td><td><input type="file" name="arquivo"></td>
