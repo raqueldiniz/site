@@ -13,7 +13,8 @@ Telefone: +31 0641393819
 Ou envie sua mensagem pelo formulário a seguir:
 
 <form name="contact" method="POST" netlify>
-<table border=0 cellpading=0 cellspacing=0>
+  
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
   <td>Nome:</td><td><input type="text" nome="nome"></td>
 </tr>   
