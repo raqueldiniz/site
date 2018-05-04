@@ -27,5 +27,4 @@ Ou envie sua mensagem pelo formulário a seguir:
   <p/>
   <p>
     <button type="submit">Enviar</button>
-  </p>
-</form>
+  </p></form>
