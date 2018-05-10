@@ -6,4 +6,4 @@ permalink: /trabalhos-realizados/
 
 Dentre os trabalhos com revisão de texto que realizei desde 2010, estão:
 
-![trabalhos realizados](/images/trabalhos-realizados1.png)
+![trabalhos realizados](/images/trabalhos-realizados2.png)
