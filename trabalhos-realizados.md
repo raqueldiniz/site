@@ -4,7 +4,7 @@ title: Trabalhos realizados
 permalink: /trabalhos-realizados/
 ---
 
-Dentre os trabalhos com revisão de texto que realizei desde 2010, estão:
+Veja abaixo o quantitativo de alguns dos trabalhos que revisei desde 2010:
 
 ![trabalhos realizados](/images/trabalhos-realizados4.png)
 
