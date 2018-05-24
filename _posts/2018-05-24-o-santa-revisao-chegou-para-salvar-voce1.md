@@ -20,7 +20,7 @@ Pois... o Santa Revisão chegou para salvar você!
 Eu me chamo Raquel. Prazer! Você pode ler mais sobre mim [aqui](/sobre/). 
 A proposta deste site é, principalmente, divulgar meu trabalho de orientação e revisão de textos, claro. Só que, além disso, pretendo ainda conversar sobre tópicos relacionados à nossa língua e à área de revisão de textos, os quais aparecerão logo na [página inicial](/). 
 
-Aqui você encontrará também os [serviços](/servicos/) que faço, já com uma média de preço para cada tipo; alguns dos meus [trabalhos realizados](/trabalhos-realizados/) desde quando comecei a revisar; e [depoimentos](/depoimentos/) de quem já contratou meus serviços. 
+Aqui você encontrará também os [serviços](/servicos/) que faço, já com uma média de preço para cada tipo; alguns dos meus [trabalhos realizados](/trabalhos-realizados/) desde quando comecei a revisar; e [depoimentos](/depoimentos/) de quem já teve trabalhos revisados por mim. 
 
 E, claro, meus contatos estão [aqui](/contato/), para quem quiser fazer um orçamento, ou contratar meus serviços, ou perguntar sobre minha profissão, ou simplesmente jogar conversa fora! Hahaha!
 
