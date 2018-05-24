@@ -20,9 +20,7 @@ A seguir estão descritos os serviços que realizo com uma média de preço. Par
 
 **Descrição:** revisão linguístico-discursiva do texto envolvendo aspectos estruturais e discursivos da língua, como ortografia, pontuação, morfossintaxe, semântica, coesão, coerência, de acordo com a norma culta e respeitando-se o conteúdo do texto e o estilo do autor.
 
-**Valores:** 
-
-R$10/página
+**Valor:** R$10/página
 
 ---
 
@@ -30,13 +28,12 @@ R$10/página
 
 **Descrição:** revisão linguístico-discursiva + adequação do texto às normas específicas de publicação, com conferência de capa, folha de rosto e de aprovação, listas e sumário, além do ajuste de citações e verificação das referências.
 
-**Valores:** 
-
-R$15/página (trabalhos com até 15 páginas)
+**Valor:** R$15/página (trabalhos com até 15 páginas)
 
 ---
 
 _**OBSERVAÇÕES:**_ 
+
 _1) uma página equivale a mais ou menos duas laudas, sendo que uma lauda contém aproximadamente 1500 caracteres (com espaço) e 200 palavras;_
 _2) a quantidade mínima é de 10 páginas; abaixo disso, será cobrado o dobro do preço;_
-_3) para revisões com prazo curto, será cobrada uma taxa de urgência de 50% do valor total.
+_3) para revisões com prazo curto, será cobrada uma taxa de urgência de 50% do valor total._
