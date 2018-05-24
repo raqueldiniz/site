@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-Olá! Meu nome é Raquel. Sou canceriana, do dia de São João. Casada e mãe de três. Amante das letras, das palavras, dos textos. Nasci em Taguatinga/DF, morei seis anos em João Pessoa/PB e atualmente estou em Amsterdã, na Holanda. 
+Meu nome é Raquel. Sou canceriana, do dia de São João. Casada e mãe de três. Amante das letras, das palavras, dos textos. Nasci em Taguatinga/DF, morei seis anos em João Pessoa/PB e atualmente estou em Amsterdã, na Holanda. 
 
 Concluí minha graduação em Letras com habilitação em Língua Portuguesa e Respectiva Literatura (licenciatura e bacharelado), pela Universidade de Brasília (UnB), em 2010. Cursei uma especialização a distância em Língua Portuguesa, pelo Centro Universitário Barão de Mauá, em 2012, já em João Pessoa. E defendi meu mestrado em Linguística Aplicada (faça o _download_ da minha dissertação [aqui](https://sigaa.ufpb.br/sigaa/verProducao?idProducao=678570&key=ec6d5d7a66fa0c735f1d27438e403fc5)), pelo Programa de Pós-Graduação em Linguística da Universidade Federal da Paraíba (Proling-UFPB), em 2017.
 
@@ -16,6 +16,4 @@ No período entre 2012 e 2016, fiz parte da equipe de avaliadores do Centro de S
 
 Assim, desde 2010 eu trabalho com a revisão linguístico-discursiva de um vasto leque de gêneros textuais, tais como: trabalhos acadêmicos (monografias, dissertações, teses, artigos), livros, e-books, materiais didáticos, documentos oficiais, manuais, material publicitário (_folders_, folhetos, _banners_), publicações _on-line_, entre outros. E vasto também é o público a que atendo, cuja maioria se compõe de estudantes universitários.
 
-O objetivo deste site é, principalmente, divulgar meu trabalho de orientação e revisão de textos, claro. No entanto, mais que isso, pretendo ainda dialogar sobre tópicos relacionados ao tema, os quais aparecerão logo na [página inicial](/). Aqui você encontrará também os [serviços](/servicos/) que faço, já com uma média de preço para cada tipo; o quantitativo de alguns dos meus [trabalhos realizados](/trabalhos-realizados/) desde quando comecei a revisar; [depoimentos](/depoimentos/) de quem já teve algum texto ou trabalho revisado por mim; e, claro, meu [contato](/contato/), para quem quiser fazer um orçamento, ou contratar meus serviços, ou perguntar sobre minha profissão, ou simplesmente jogar conversa fora! Hahaha!
-
-Seja bem-vind@!
+Resolvi criar o [SANTA REVISÃO](/) para “salvar” as pessoas que precisam de ajuda com a nossa língua portuguesa, principalmente quando materializada na forma de texto.
