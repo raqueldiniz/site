@@ -15,3 +15,5 @@ Veja abaixo os depoimentos de quem já teve um texto ou trabalho revisado por mi
 
 > "A Raquel foi ágil na resposta ao meu primeiro contato, profissional e com domínio na correção do texto solicitado e realizou o trabalho com muita qualidade e eficiência." (Marcus Carvalho)
 
+
+**Você também pode enviar seu depoimento pela página de [contato](/contato/). ;)**
