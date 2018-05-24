@@ -6,7 +6,7 @@ permalink: /servicos/
 
 A seguir estão descritos os serviços que executo com uma média de preço. Para solicitar um orçamento e ter o valor exato, bem como para verificar outros serviços que não constam aqui, entre em [contato](/contato/) comigo.
 
-
+---
 
 ## 1. Orientação textual
 
@@ -14,6 +14,7 @@ A seguir estão descritos os serviços que executo com uma média de preço. Par
 
 **Valor:** R$50/hora
 
+---
 
 ## 2. Revisão de texto
 
@@ -25,6 +26,7 @@ R$10/página (trabalhos com até 15 páginas)
 
 R$7/página (trabalhos com mais de 15 páginas)
 
+---
 
 ## 3. Revisão de texto + Adequação às normas
 
@@ -36,5 +38,6 @@ R$13/página (trabalhos com até 15 páginas)
 
 R$10/página (trabalhos com mais de 15 páginas)
 
+---
 
 *_**OBS.:** uma página equivale a mais ou menos duas laudas, sendo que uma lauda contém aproximadamente 1500 caracteres (com espaço) e 200 palavras._
