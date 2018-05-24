@@ -10,12 +10,9 @@ Precisando de alguém para revisar seu texto, seja um artigo, uma dissertação 
 Então, pode contar comigo! 
 
 Ou você precisa somente de uma mãozinha para escrever melhor sua redação?
-Então, pode me chamar!
-
-Mas talvez você queira apenas umas aulas de reforço de língua portuguesa?
 Opa! Estou aqui!
 
-Ou quer só ler alguma coisa do tipo “dicas de português” ou sobre revisão de textos?
+Mas talvez você queira apenas ler alguma coisa do tipo “dicas de português” ou sobre revisão de textos?
 Você vai ter isso aqui também!
 
 Pois... o Santa Revisão chegou para salvar você!
