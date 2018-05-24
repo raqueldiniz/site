@@ -32,7 +32,7 @@ A seguir estão descritos os serviços que realizo com uma média de preço. Par
 
 ---
 
-*_**OBSERVAÇÕES:**_ 
+_***OBSERVAÇÕES:**_ 
 
 _1) uma página equivale a mais ou menos duas laudas, sendo que uma lauda contém aproximadamente 1500 caracteres (com espaço) e 200 palavras;_
 
