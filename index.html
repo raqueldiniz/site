@@ -27,14 +27,10 @@ title: Santa Revisão
       {% else %}
         <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">anterior</a>
       {% endif %}
-    {% else %}
-      <span class="page-link">anterior</span>
     {% endif %}
 
     {% if paginator.next_page %}
       <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">próxima</a>
-    {% else %}
-      <span class="page-link">próxima</span>
     {% endif %}
   </div>
 
