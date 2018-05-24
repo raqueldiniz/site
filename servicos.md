@@ -35,5 +35,7 @@ A seguir estão descritos os serviços que realizo com uma média de preço. Par
 _**OBSERVAÇÕES:**_ 
 
 _1) uma página equivale a mais ou menos duas laudas, sendo que uma lauda contém aproximadamente 1500 caracteres (com espaço) e 200 palavras;_
+
 _2) a quantidade mínima é de 10 páginas; abaixo disso, será cobrado o dobro do preço;_
+
 _3) para revisões com prazo curto, será cobrada uma taxa de urgência de 50% do valor total._
