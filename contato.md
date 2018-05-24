@@ -4,13 +4,13 @@ title: Contato
 permalink: /contato/
 ---
 
-Entre em contato pelos canais abaixo:
+**Entre em contato pelos canais abaixo:**
 
 E-mail: raquelribeirodiniz@gmail.com
 
 Telefone: +31 0641393819
 
-Ou envie sua mensagem pelo formulário a seguir:
+**Ou envie sua mensagem pelo formulário a seguir:**
 
 <form name="contact" method="POST" netlify>
   
