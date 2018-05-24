@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Santa Revisão
 ---
 
 <div class="home">
@@ -10,10 +10,12 @@ title: Home
     <li>
       <h1 >{{ post.title }}</h1>
       <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-      {{ post.excerpt }}
+      {{ post.content }}
+      <!--
       <div class="continue">
         <a href="{{ post.url | prepend: site.baseurl }}">&bull;&bull;&bull;</a>
       </div>
+      -->
     </li>
     {% endfor %}
   </ul>
