@@ -4,7 +4,7 @@ title: Trabalhos realizados
 permalink: /trabalhos-realizados/
 ---
 
-Veja abaixo o quantitativo de alguns dos trabalhos que revisei desde 2010:
+Aqui o quantitativo de alguns trabalhos que já revisei:
 
 ![trabalhos realizados](/images/trabalhos-realizados4.png)
 
