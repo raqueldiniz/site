@@ -33,3 +33,5 @@ Ou envie sua mensagem pelo formulário a seguir:
   </tr>
   </table>
 </form>
+
+E você também pode curtir a [página no Facebook](/fb.me/santarevisao/) e enviar mensagem por lá!
