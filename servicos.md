@@ -20,7 +20,7 @@ A seguir estão descritos os serviços que realizo com uma média de preço. Par
 
 **Descrição:** revisão linguístico-discursiva + adequação do texto às normas específicas de publicação, com conferência de capa, folha de rosto e de aprovação, listas e sumário, além do ajuste de citações e verificação das referências.
 
-**Valor:** R$15/página (trabalhos com até 15 páginas)
+**Valor:** R$15/página
 
 ---
 
