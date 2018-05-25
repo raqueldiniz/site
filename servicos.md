@@ -26,7 +26,7 @@ A seguir estão descritos os serviços que realizo com uma média de preço. Par
 
 **3. Orientação textual**
 
-**Descrição:** acompanhamento da produção textual, com orientações sobre a escrita, como aplicação de normas, revisão linguístico-discursiva, verificação da coesão e coerência, adequação ao tema e ao estilo, entre outros, a depender do gênero textual. A forma como se dará a orientação será acordada previamente.
+**Descrição:** acompanhamento da produção textual, com orientações sobre a escrita, como aplicação de normas, revisão linguístico-discursiva, verificação da coesão e coerência, adequação ao tema e ao estilo, entre outros, a depender do gênero textual.
 
 **Valor:** R$50/hora
 
