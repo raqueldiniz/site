@@ -34,4 +34,4 @@ Ou envie sua mensagem pelo formulário a seguir:
   </table>
 </form>
 
-E você também pode curtir a [página no Facebook](/fb.me/santarevisao/) e enviar mensagem por lá!
+E você também pode curtir a [página no Facebook](/https://www.facebook.com/santarevisao/) e enviar mensagem por lá!
