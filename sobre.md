@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-<p> <img src="/images/foto-raquel2.jpg" align="left">
+<p> <img src="/images/foto-raquel2.jpg" align="left" style="margin:0 10px 10px 0">
 Sou canceriana, do dia de São João. Casada e mãe de três. Amante das letras, das palavras, dos textos. Nasci em Taguatinga/DF, morei seis anos em João Pessoa/PB e atualmente estou em Amsterdã, na Holanda. <br />
 </p>
 
