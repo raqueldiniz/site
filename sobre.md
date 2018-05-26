@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-Meu nome é Raquel. Sou canceriana, do dia de São João. Casada e mãe de três. Amante das letras, das palavras, dos textos. Nasci em Taguatinga/DF, morei seis anos em João Pessoa/PB e atualmente estou em Amsterdã, na Holanda. 
+![sobre](/images/foto-raquel.jpg) Meu nome é Raquel. Sou canceriana, do dia de São João. Casada e mãe de três. Amante das letras, das palavras, dos textos. Nasci em Taguatinga/DF, morei seis anos em João Pessoa/PB e atualmente estou em Amsterdã, na Holanda. 
 
 Concluí minha graduação em Letras com habilitação em Língua Portuguesa e Respectiva Literatura (licenciatura e bacharelado), pela Universidade de Brasília (UnB), em 2010. Cursei uma especialização a distância em Língua Portuguesa, pelo Centro Universitário Barão de Mauá, em 2012, já em João Pessoa. E defendi meu mestrado em Linguística Aplicada (faça o _download_ da minha dissertação [aqui](https://sigaa.ufpb.br/sigaa/verProducao?idProducao=678570&key=ec6d5d7a66fa0c735f1d27438e403fc5)), pelo Programa de Pós-Graduação em Linguística da Universidade Federal da Paraíba (Proling-UFPB), em 2017.
 
