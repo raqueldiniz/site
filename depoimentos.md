@@ -17,5 +17,9 @@ Veja abaixo os depoimentos de quem já teve um trabalho revisado por mim. <3
 
 > "Contratei com a Raquel o serviço de revisão de textos e fiquei muito satisfeita. Foi para a minha dissertação de mestrado e eu estava insegura com a formatação de acordo com as normas - parece que nunca está certo para a banca - e já sem enxergar os erros de português de forma geral por ter lido tantas vezes meu trabalho, acho que a visão da gente fica viciada. Vale muito a pena a contratação desse tipo de serviço e, especialmente, com a Raquel que cobrou um preço justo, fez um bom trabalho e cumpriu com o prazo combinado." (Kátia Godoy)
 
+> "Ao trabalhar com Raquel na atividade de editorar livros didáticos para Educação a Distância, pude perceber a seriedade que ela trata os autores e os destinatários dos conteúdos que revisa. Para além do texto, Raquel busca harmonia entre esses atores do processo de comunicação. Muito além da ortografia, muito além da sintaxe, o trabalho de Raquel busca a compreensão." (Rafael Leal)
+
+> "A minha experiência de ter meus textos revisados por Raquel foi muito gratificante. Ficava na expectativa pra recebê-los pra ver o que me escapou e ler os comentários, sempre pertinentes. Ter um leitor revisor que dialogue com o texto é que que todo escritor quer." (Regina Celi)
+
 
 ***Você também pode enviar seu depoimento pela página de [contato](/contato/).**
