@@ -8,7 +8,7 @@ url: ""
 markdown: kramdown
 permalink: pretty
 highlighter: pygments
-paginate: 3
+paginate: 1
 
 plugins: 
   - jekyll-paginate
