@@ -23,5 +23,7 @@ Veja abaixo os depoimentos de quem já teve um trabalho revisado por mim. <3
 
 > "Rapidez e qualidade definem o trabalho de revisão realizado por Raquel Diniz. Como profissional de Letras, Raquel tem profundo conhecimento sobre a Língua Portuguesa e sobre o processo de revisão. Além disso, por estar em constante busca por atualização de seus conhecimentos, a qualidade de seu trabalho só tende a crescer. Ainda preciso destacar a sensibilidade de Raquel em relação ao tempo, que geralmente é curto. Sempre dialogando com o autor do texto revisado, Raquel consegue executar um trabalho de excelência, sendo para mim, também profissional da área de Letras e já Doutor em Linguística, a indicação que primeiro me vem à cabeça para trabalhos de revisão textual." (Moacir Costa)
 
+> "Mais que recomendo o trabalho da querida Raquel! Não nos conhecemos pessoalmente, mas seu trabalho me fez admirá-la a distância. Presteza, comprometimento e digno trabalho foi o que pude atestar. Acredito que ninguém se arrependerá de contratá-la. Sou grata e muito satisfeita pela revisão que fez em minha tese." (Harue Tanaka)
+
 
 ***Você também pode enviar seu depoimento pela página de [contato](/contato/).**
