@@ -20,7 +20,7 @@ Falarei detalhadamente de cada um desses tópicos em postagens futuras, pois hoj
 
 Antes de tudo, você lembra o que é um pronome? Bem, _pronome_ é a palavra que substitui, acompanha ou referencia outra palavra (um substantivo). Ou seja, o _pronome_ é um termo que sempre está em função do substantivo. Por exemplo:
 
-_A revisora alterou **meu** ___texto___ e **ele** ficou ótimo._
+_A revisora alterou **meu** texto e **ele** ficou ótimo._
 
 Aqui, o primeiro pronome que aparece é _meu_, o qual está acompanhando o substantivo _texto_, especificando-o (afinal, não é qualquer texto, é o MEU texto!). Logo, devido a essa função, esse pronome é chamado de _pronome adjetivo_. 
 
