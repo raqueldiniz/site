@@ -34,9 +34,11 @@ A partir daí, existem várias classificações para essa classe gramatical, a d
 
 Os pronomes pessoais, como o próprio nome diz, indicam as pessoas do discurso:
 
-**. 1ª pessoa** (quem fala): **EU** (singular) e **NÓS** (plural)
-**. 2ª pessoa** (com quem se fala): **TU/VOCÊ** (singular) e **VÓS/VOCÊS** (plural)
-**. 3ª pessoa** (de quem/que se fala): **ELE/ELA** (singular) e **ELES/ELAS** (plural)
+**1ª pessoa** (quem fala): **EU** (singular) e **NÓS** (plural)
+
+**2ª pessoa** (com quem se fala): **TU/VOCÊ** (singular) e **VÓS/VOCÊS** (plural)
+
+**3ª pessoa** (de quem/que se fala): **ELE/ELA** (singular) e **ELES/ELAS** (plural)
 
 Na oração, quando os pronomes pessoais exercem a função de sujeito ou de predicativo do sujeito, eles são classificados como **retos**:
 
@@ -48,12 +50,17 @@ _Enviei meu texto para a revisora e ela **o** revisou em uma semana._
 
 Todo pronome reto tem um pronome oblíquo para chamar de seu! Veja abaixo esta relação de amor:
 
-. eu > mim, me, comigo
-. tu > te, ti, contigo
-. ele/ela > se, o, a, lhe, si, consigo
-. nós > nos, conosco
-. vós > vos, convosco
-. eles/elas > si, os, as, lhes, se, consigo
+eu > mim, me, comigo
+
+tu > te, ti, contigo
+
+ele/ela > se, o, a, lhe, si, consigo
+
+nós > nos, conosco
+
+vós > vos, convosco
+
+eles/elas > si, os, as, lhes, se, consigo
 
 ---
 
@@ -65,12 +72,17 @@ _Esse dicionário é **meu**._
 
 Note, nesse exemplo, que o possuidor sou _eu_ (pois o pronome possessivo _meu_ se encontra na 1ª pessoa do singular) e a coisa possuída é _dicionário_. Abaixo a lista dos pronomes possessivos com seu equivalente para cada pessoa do discurso:
 
-. eu > meu(s), minha(s)
-. tu > teu(s), tua(s)
-. ele/ela > seu(s), sua(s)
-. nós > nosso(s), nossa(s)
-. vós > vosso(s), vossa(s)
-. eles/elas > seu(s), sua(s)
+eu > meu(s), minha(s)
+
+tu > teu(s), tua(s)
+
+ele/ela > seu(s), sua(s)
+
+nós > nosso(s), nossa(s)
+
+vós > vosso(s), vossa(s)
+
+eles/elas > seu(s), sua(s)
 
 ---
 
@@ -78,9 +90,11 @@ Note, nesse exemplo, que o possuidor sou _eu_ (pois o pronome possessivo _meu_ s
 
 Sem delongas, os pronomes demonstrativos têm a função de indicar a posição de algo no espaço, no tempo ou no discurso:
 
-. 1ª pessoa > isto, este(s), esta(s) (próximo da pessoa que fala)
-. 2ª pessoa > isso, esse(s), essa(s) (próximo da pessoa com quem falo)
-. 3ª pessoa > aquilo, aquele(s), aquela(s) (afastado de ambas as pessoas)
+1ª pessoa > isto, este(s), esta(s) (próximo da pessoa que fala)
+
+2ª pessoa > isso, esse(s), essa(s) (próximo da pessoa com quem falo)
+
+3ª pessoa > aquilo, aquele(s), aquela(s) (afastado de ambas as pessoas)
 
 Exemplos de cada um:
 
