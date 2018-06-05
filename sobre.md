@@ -18,4 +18,4 @@ No período entre 2012 e 2016, fiz parte da equipe de avaliadores do Centro de S
 
 Assim, desde 2010 eu trabalho com a revisão linguístico-discursiva de um vasto leque de gêneros textuais, tais como: trabalhos acadêmicos (monografias, dissertações, teses, artigos), livros, e-books, materiais didáticos, documentos oficiais, manuais, material publicitário (_folders_, folhetos, _banners_), publicações _on-line_, entre outros. E vasto também é o público a que atendo, cuja maioria se compõe de estudantes universitários.
 
-Resolvi criar o [SANTA REVISÃO](/) para “salvar” as pessoas que precisam de ajuda com a nossa língua portuguesa, principalmente quando materializada na forma de texto.
+Resolvi criar o [SANTA REVISÃO](/) para “salvar” as pessoas que precisam de ajuda com a língua portuguesa, por meio de orientação ou revisão de textos.
