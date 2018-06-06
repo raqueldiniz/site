@@ -32,7 +32,7 @@ Vimos anteriormente que o uso do pronome "seu/sua" é para não repetir o substa
 
 _O **revisor** conversou com o autor sobre o **seu erro**, **DO REVISOR**._
 
-_O revisor conversou com o **autor** sobre o *seu erro*, **DO AUTOR**._
+_O revisor conversou com o **autor** sobre o **seu erro**, **DO AUTOR**._
 
 Se o problema todo aqui é a ausência de especificação de quem é o "possuidor" do **erro**, você pode, para isso, acrescentar uma oração subordinada adjetiva restritiva (_afe!_) com algum sinônimo, heterônimo, hipônimo, etc. (_afe!_ de novo!). Calma! Respire! Conte até três! Vendo os exemplos fica melhor de entender:
 
