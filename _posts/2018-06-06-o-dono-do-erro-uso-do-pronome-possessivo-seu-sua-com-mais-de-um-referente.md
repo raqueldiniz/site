@@ -10,7 +10,7 @@ Depois do [breve resumo sobre pronomes na semana passada](http://santarevisao.co
 
 _O **revisor de textos** utiliza todo o **SEU** **conhecimento** na hora da revisão._
 
-Nessa frase, **SEU** está se referindo a **revisor de textos**, ou seja, o **conhecimento** é **do revisor de textos**. Logo, o possuidor é **revisor de textos** e a coisa possuída é **conhecimento**. Para não repetir o substantivo **revisor de textos** ( = _O **revisor de textos** utiliza todo o conhecimento **do revisor de textos** na hora da revisão_), nós inserimos um pronome, pois a substituição é uma das funções dessa classe gramatical, certo?
+Nessa frase, **SEU** está se referindo a **revisor de textos**, ou seja, o **conhecimento** é **do revisor de textos**. Logo, o possuidor é **revisor de textos** e a coisa possuída é **conhecimento**. Para não repetir o substantivo **revisor de textos** (_O **revisor de textos** utiliza todo o conhecimento **do revisor de textos** na hora da revisão_), nós inserimos um pronome, pois a substituição é uma das funções dessa classe gramatical, certo?
 
 Até aqui, tudo bem, né? Mas o problema surge quando existe mais de um possível referente para o pronome "seu/sua", o que pode levar a uma ambiguidade. E geralmente não percebemos isso até que outra pessoa leia nosso texto, ache estranho e fique em dúvida. Continuemos com um exemplo:
 
@@ -18,7 +18,7 @@ _O **revisor** conversou com o **autor** sobre o **SEU** **erro**._
 
 Nesse exemplo, a dúvida aparece por não estar claro de quem é o **erro**, isto é, não sabemos quem é o “possuidor” do **erro**. Isso ocorre pois há dois substantivos (**revisor** e **autor**) aos quais o pronome **SEU** pode se referir. 
 
-E nesse caso, nem a substituição pela contração **dele** (o que costuma ser uma das soluções para esse problema) resolve, porque os substantivos estão no mesmo gênero e número (masculino plural):
+E nesse caso, nem a substituição pela contração **dele** (o que costuma ser uma das soluções para esse problema) resolve, porque os substantivos estão no mesmo gênero e número (masculino singular):
 
 _O **revisor** conversou com o **autor** sobre o **erro** DELE._
 
