@@ -9,7 +9,7 @@ title: Santa Revisão
     {% for post in paginator.posts %}
     <li>
       <h1 >{{ post.title }}</h1>
-      <span>{{ post.date | date: "%-d.%m.%Y" }}</span>
+      <span>{{ post.date | date: "%d.%m.%Y" }}</span>
       {{ post.content }}
       <!--
       <div class="continue">
