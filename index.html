@@ -21,16 +21,16 @@ title: Santa Revisão
   </ul>
 
   <div class="pagination">
+    {% if paginator.next_page %}
+      <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">anterior</a>
+    {% endif %}
+    
     {% if paginator.previous_page %}
       {% if page == 2 %}
         <a class="page-link" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">próxima</a>
       {% else %}
         <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">próxima</a>
       {% endif %}
-    {% endif %}
-
-    {% if paginator.next_page %}
-      <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">anterior</a>
     {% endif %}
   </div>
 
