@@ -4,11 +4,11 @@ title: "O dono do erro: uso do pronome possessivo "seu/sua" com mais de um refer
 date: 2018-06-06 00:00:00
 ---
 
-Depois do breve resumo sobre pronomes na [semana passada](http://santarevisao.com.br/page2), acho que agora podemos começar a falar mais a fundo dos cinco desvios mais comuns com pronomes. E o primeiro da lista é "o uso do pronome 'seu/sua' com mais de um referente", você se lembra?
+Depois do [breve resumo sobre pronomes na semana passada](http://santarevisao.com.br/page2), acho que agora podemos começar a falar mais a fundo dos TOP FIVE: os cinco desvios mais comuns com pronomes. E o primeiro da lista é "o uso do pronome 'seu/sua' com mais de um referente", você se lembra?
 
 "Seu/sua" é um pronome possessivo da terceira pessoa do singular (ele/ela). Como vimos no último post, ser “possessivo” significa que alguém (possuidor) tem algo (coisa possuída). Logo, no seu texto, se você usar um pronome possessivo, deve deixar explícito quem é o possuidor e o que é a coisa possuída. Exemplo:
 
-_O **revisor de textos** utiliza todo o SEU **conhecimento** na hora da revisão._
+_O **revisor de textos** utiliza todo o **SEU** **conhecimento** na hora da revisão._
 
 Nessa frase, **SEU** está se referindo a **revisor de textos**, ou seja, o **conhecimento** é **do revisor de textos**. Logo, o possuidor é **revisor de textos** e a coisa possuída é **conhecimento**. Para não repetir o substantivo **revisor de textos** ( = _O **revisor de textos** utiliza todo o conhecimento **do revisor de textos** na hora da revisão_), nós inserimos um pronome, pois a substituição é uma das funções dessa classe gramatical, certo?
 
@@ -24,7 +24,7 @@ _O **revisor** conversou com o **autor** sobre o **erro** DELE._
 
 Então, o que fazer agora? Uma opção é recorrer a outro tipo de pronome, o demonstrativo, lembrando que **ESTE** se refere ao termo mais próximo ao pronome e **AQUELE** se refere ao termo mais afastado. Ficaria assim:
 
-_O revisor conversou com o **auto*r* sobre o **erro** **DESTE**._ ( = erro do autor)
+_O revisor conversou com o **autor** sobre o **erro** **DESTE**._ ( = erro do autor)
 
 _O **revisor** conversou com o autor sobre o **erro** **DAQUELE**._ ( = erro do revisor)
 
@@ -36,7 +36,7 @@ _O revisor conversou com o **autor** sobre o *seu erro*, **DO AUTOR**._
 
 Se o problema todo aqui é a ausência de especificação de quem é o "possuidor" do **erro**, você pode, para isso, acrescentar uma oração subordinada adjetiva restritiva (_afe!_) com algum sinônimo, heterônimo, hipônimo, etc. (_afe!_ de novo!). Calma! Respire! Conte até três! Vendo os exemplos fica melhor de entender:
 
-_O **revisor** conversou com o autor sobre o **erro** *Q*UE O PROFISSIONAL COMETEU**._
+_O **revisor** conversou com o autor sobre o **erro** **QUE O PROFISSIONAL COMETEU**._
 
 _O revisor conversou com o **autor** sobre o **erro** **QUE O ESCRITOR COMETEU**._
 
@@ -46,4 +46,4 @@ Bem, no fim de tudo, se nenhuma das opções acima citadas te agradarem, você p
 
 _O revisor conversou com o autor sobre o erro._
 
-Mas lembre que o restante do seu texto tem que dar conta de especificar quem é **O DONO DO ERRO**. ;)
+Mas não esqueça que o restante do seu texto tem que dar conta de especificar quem é **O DONO DO ERRO**, ok! ;)
