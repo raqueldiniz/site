@@ -48,14 +48,14 @@ Veja bem, no texto, o pronome **ESTE** vai se referir a algo que ainda será inf
  
 _Meu conselho é **ESTE**: envie seu texto para um revisor antes de publicar._
 
-_O autor prefere **ESTE** título: “Viagem ao mundo em 140 caracteres”._
+_O autor prefere **ESTE** livro: “Viagem ao mundo em 140 caracteres”._
 
 E o pronome **ESSE**, ao contrário, vai se referir a algo que já foi apresentado **an**teriormente no texto (essa referência é a tal da “**an**áfora”):
 
 _Enviar o texto para um revisor antes de publicar: **ESSE** foi meu conselho._
  
-_“Viagem ao mundo em 140 caracteres” foi o título escolhido pelo autor. Essa também foi a escolha feita pelo editor do livro._
+_“Viagem ao mundo em 140 caracteres” foi a obra eleita pelo autor. **ESSE** livro também foi o escolhido pelo editor._
 
 ---
 
-Viu como uma letrinha pode fazer uma grande diferença? Mas agora que você já sabe dessa disparidade, não vai mais sair por aí usando aleatoriamente os pronomes demonstrativos ESTE e ESSE, né?
+Viu como uma letrinha pode fazer uma grande diferença? Mas agora que você já sabe dessa disparidade, não vai mais sair por aí usando aleatoriamente os pronomes demonstrativos ESTE e ESSE, não é?
