@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A diferença em uma letra: uso aleatório dos pronomes demonstrativos ESTE e ESSE"
-date: 2018-06-13 01:00:00
+title: "A diferença em uma letra: uso aleatório dos pronomes demonstrativos este e esse"
+date: 2018-06-13 00:00:00
 ---
 
 Antes de tudo, para refrescar a memória: o pronome demonstrativo serve para relacionar um termo com outro(s) no **espaço**, no **tempo** e no **discurso**. Parece simples, né? Mas o problema maior aqui acontece entre os pronomes que se referem à primeira (ESTE) e à segunda (ESSE) pessoa, justamente porque a diferença entre eles está em apenas uma letra: T e S, respectivamente. Vamos ver essa disparidade então?
