@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O dono do erro: uso do pronome possessivo SEU/SUA com mais de um referente
+title: "O dono do erro: uso do pronome possessivo SEU/SUA com mais de um referente"
 date: 2018-06-06 00:00:00
 ---
 
