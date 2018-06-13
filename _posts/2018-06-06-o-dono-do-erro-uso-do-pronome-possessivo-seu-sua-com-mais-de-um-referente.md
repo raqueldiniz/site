@@ -6,7 +6,7 @@ date: 2018-06-06 00:00:00
 
 Depois do [breve resumo sobre pronomes na semana passada](http://santarevisao.com.br/page2), acho que agora podemos começar a falar mais a fundo dos TOP FIVE: os cinco desvios mais comuns com pronomes. E o primeiro da lista é "o uso do pronome 'seu/sua' com mais de um referente", você se lembra?
 
-"Seu/sua" é um pronome possessivo da terceira pessoa do singular (ele/ela). Como vimos no último post, ser “possessivo” significa que alguém (possuidor) tem algo (coisa possuída). Logo, no seu texto, se você usar um pronome possessivo, deve deixar explícito quem é o possuidor e o que é a coisa possuída. Exemplo:
+"Seu/sua" é um pronome possessivo da terceira pessoa do singular (ele/ela). Como vimos no post anterior, ser “possessivo” significa que alguém (possuidor) tem algo (coisa possuída). Logo, no seu texto, se você usar um pronome possessivo, deve deixar explícito quem é o possuidor e o que é a coisa possuída. Exemplo:
 
 _O **revisor de textos** utiliza todo o **SEU** **conhecimento** na hora da revisão._
 
