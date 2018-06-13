@@ -7,7 +7,7 @@ date: 2018-05-30 08:00:00
 No meu trabalho de revisão de textos, deparo-me com diversos tipos de desvios da norma culta, muitos deles relacionados ao uso incorreto de pronomes. Então, resolvi listar aqui os TOP FIVE, ou seja, os cinco desvios mais comuns com pronomes que costumo encontrar nos textos que reviso. São eles:
 
 1. uso do pronome possessivo “seu/sua” com mais de um referente;
-2. uso aleatório dos pronomes demonstrativos “esse” e “este”;
+2. uso aleatório dos pronomes demonstrativos “este” e “esse”;
 3. uso do pronome relativo “onde” sem fazer referência a lugar;
 4. uso repetitivo do pronome relativo “que”; e
 5. uso do pronome demonstrativo “mesmo” como pronome pessoal.
