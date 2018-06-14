@@ -4,13 +4,13 @@ title: Contato
 permalink: /contato/
 ---
 
-Entre em contato pelos canais abaixo:
+Você pode entrar em contato pelos canais abaixo:
 
 E-mail: __raquelribeirodiniz@gmail.com__
 
 Telefone: __+31 0641393819__
 
-Ou envie sua mensagem pelo formulário a seguir:
+Ou enviar sua mensagem pelo formulário a seguir:
 
 <form name="contact" method="POST" netlify>
   
@@ -34,4 +34,7 @@ Ou envie sua mensagem pelo formulário a seguir:
   </table>
 </form>
 
-E você também pode curtir a [página no Facebook](https://www.facebook.com/santarevisao) e enviar mensagem por lá!
+E pode também curtir e seguir a [página no Facebook](https://www.facebook.com/santarevisao) e ainda enviar mensagem por lá!
+
+Você sabia que o SANTA REVISÃO é um Microempreendedor Individual (MEI)? 
+CNPJ: 30.688.983/0001-61
