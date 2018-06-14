@@ -34,7 +34,7 @@ Ou enviar sua mensagem pelo formulário a seguir:
   </table>
 </form>
 
-E pode também curtir e seguir a [página no Facebook](https://www.facebook.com/santarevisao) e ainda enviar mensagem por lá!
+E ainda pode curtir a [página no Facebook](https://www.facebook.com/santarevisao) e enviar mensagem por lá também!
 
-Você sabia que o SANTA REVISÃO é um Microempreendedor Individual (MEI)? 
+Ah, você sabia que o SANTA REVISÃO é um Microempreendedor Individual (MEI)? 
 CNPJ: 30.688.983/0001-61
