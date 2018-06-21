@@ -7,13 +7,13 @@ Quando alguém diz **ONDE**, você logo pensa em quê? Com certeza não é em um
 
 Só lembrando aqui, rapidamente, que um pronome relativo retoma o substantivo da oração principal, substituindo-o na oração seguinte, que é uma subordinada adjetiva. Logo, o substantivo retomado pelo pronome relativo **ONDE** deve ser, necessariamente, um lugar. Assim ó:
 
-_**Minas Gerais** é o estado **ONDE** meus pais nasceram._ [ONDE retoma MINAS GERAIS, que é um lugar]
+_Minas Gerais é o estado **ONDE** meus pais nasceram._ [ONDE retoma MINAS GERAIS, que é um lugar]
 
-_No **bairro** **ONDE** moro, há uma praia linda!_ [ONDE retoma BAIRRO, que também é um lugar]
+_No bairro **ONDE** moro, há uma praia linda!_ [ONDE retoma BAIRRO, que também é um lugar]
 
 Ah! Antes que eu me esqueça: o pronome **ONDE** também pode vir antecedido de uma preposição, a depender da regência do verbo. Isto é, se o verbo exigir a preposição POR, por exemplo, você a coloca antes do pronome **ONDE**, entendeu? Não? Então veja:
 
-_Essa é a rua **POR ONDE** **passei** ontem à tarde._ 
+_Essa é a rua **POR ONDE** passei ontem à tarde._ 
 
 O verbo PASSAR pede a preposição POR, então ela fica antes do pronome **ONDE**. Como o **ONDE** está substituindo RUA, na oração simples de ordem direta ficaria assim:
 
@@ -37,4 +37,4 @@ JULHO se refere a tempo e não a lugar, logo, não pode ser substituído por **O
 
 _O prazo final para a entrega do artigo é em julho, **QUANDO** acabam as aulas da faculdade._ 
 
-Prontinho! Agora você já sabe exatamente qual é o LUGAR do **ONDE**.
+Prontinho! Agora você já sabe exatamente qual é o LUGAR do ONDE. Não vá se perder pelo caminho, hein!
