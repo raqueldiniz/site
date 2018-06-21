@@ -5,7 +5,7 @@ date: 2018-06-21 00:00:00
 ---
 Quando alguém diz **ONDE**, você logo pensa em quê? Com certeza não é em uma pessoa, nem um objeto, muito menos um período de tempo ou uma situação. Você pensa em um LUGAR, correto? Pois é justamente a LUGAR que o pronome relativo **ONDE** deve se referir quando usado em uma oração. Fácil, não? 
 
-Só lembrando aqui, rapidamente, que um pronome relativo retoma o substantivo da oração principal, substituindo-o na oração seguinte, que é uma subordinada adjetiva. Logo, o substantivo retomado pelo pronome relativo **ONDE** deve ser, necessariamente, um lugar. Assim ó:
+Só lembrando [aqui](http://santarevisao.com.br/2018/05/30/top-five-os-cinco-desvios-mais-comuns-com-pronomes/), rapidamente, que um pronome relativo retoma o substantivo da oração principal, substituindo-o na oração seguinte, que é uma subordinada adjetiva. Logo, o substantivo retomado pelo pronome relativo **ONDE** deve ser, necessariamente, um lugar. Assim ó:
 
 _Minas Gerais é o estado **ONDE** meus pais nasceram._ [ONDE retoma MINAS GERAIS, que é um lugar]
 
