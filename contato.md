@@ -16,7 +16,7 @@ Ou enviar sua mensagem pelo formulário a seguir:
   
 <table border="0" cellpadding="2" cellspacing="0">
 <tr>
-  <td align="right">Nome:</td><td><input type="text" nome="nome" size="50"></td>
+  <td align="right">Nome:</td><td><input type="text" name="nome" size="50"></td>
 </tr>   
   <tr>
     <td align="right">E-mail:</td><td><input type="email" name="email" size="50"></td>
