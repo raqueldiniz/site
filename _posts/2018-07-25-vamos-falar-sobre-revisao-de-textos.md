@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vamos falar de revisão de textos?"
+title: "Vamos falar sobre revisão de textos?"
 date: 2018-07-25 00:00:00
 ---
 Você sabe a diferença entre correção e revisão de textos no contexto escolar? E entre preparação e revisão no contexto profissional? Pois hoje nosso bate-papo vai ser sobre esse assunto. Vamos lá?
