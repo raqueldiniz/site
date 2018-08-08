@@ -14,11 +14,8 @@ Tenha uma boa leitura e, claro, uma boa reflexão também! ;)
 ---
 
 **O PREPARADOR, ESSE DESCONHECIDO**
-
 31 janeiro 2011, 3:30 pm
-
 _Por Vanessa Barbara*_
-
 
 
 Se houvesse bom-senso no mundo, “preparador de texto” seria uma afecção mental categorizada pelo CID-10 (Classificação Internacional de Doenças e de Problemas Relacionados a Saúde, Décima Revisão).
@@ -54,5 +51,7 @@ Nas palavras de FERGUSON 2002, pp. 71-2: “Preparadores de texto, ah! Todos mal
 ---
 
 _*Vanessa Barbara é jornalista e tradutora. Entre as suas preparações mais ilustres, destacam-se Os dentes falsos de George Washington (Robert Darnton), Anos do Condor (John Dinges), Nova York (Will Eisner), 71 contos (Primo Levi), Quebrando a banca (Ben Mezrich) e Histórias extraordinárias (Poe), além de livros de autores como Moacyr Scliar, Zé Miguel Wisnik e Shakespeare._
+
+---
 
 [Fonte: <http://historico.blogdacompanhia.com.br/2011/01/o-preparador-esse-desconhecido/>. Acesso em: 8 ago. 2018]
