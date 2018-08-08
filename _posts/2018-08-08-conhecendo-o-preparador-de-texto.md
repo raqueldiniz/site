@@ -14,7 +14,9 @@ Tenha uma boa leitura e, claro, uma boa reflexão também! ;)
 ---
 
 **O PREPARADOR, ESSE DESCONHECIDO**
+
 31 janeiro 2011, 3:30 pm
+
 _Por Vanessa Barbara*_
 
 
