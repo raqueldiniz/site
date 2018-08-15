@@ -13,7 +13,7 @@ Para o post ficar mais didático e também para não ficar muito extenso, achei 
 
 De acordo com a norma, a estrutura padrão de um trabalho acadêmico contém os elementos: a) **pré-textuais**, os quais antecedem o texto com informações para se identificar e utilizar o trabalho; b) **textuais**, que é a parte na qual o conteúdo em si é apresentado; e c) **pós-textuais**, aqueles que complementam o trabalho.
 
-A disposição desses elementos se encontra na tabela abaixo, retirada da norma citada (ABNT NBR 14724, 2005).
+A disposição desses elementos se encontra na tabela abaixo, retirada da norma citada (ABNT NBR 14724, 2005, p. 3).
 
 ![Resumão ABNT para trabalhos acadêmicos (1/2)](/images/tabela-estrutura-abnt-2.png)
 
