@@ -15,7 +15,7 @@ De acordo com a norma, a estrutura padrão de um trabalho acadêmico contém os 
 
 A disposição desses elementos se encontra na tabela abaixo, retirada da norma citada (ABNT NBR 14724, 2005).
 
-![Resumão ABNT para trabalhos acadêmicos (1/2)](/images/tabela-estrutura-abnt.png)
+![Resumão ABNT para trabalhos acadêmicos (1/2)](/images/tabela-estrutura-abnt-2.png)
 
 Como isso aqui é um resumão, falaremos somente dos itens que são obrigatórios em um trabalho acadêmico, ok?
 
