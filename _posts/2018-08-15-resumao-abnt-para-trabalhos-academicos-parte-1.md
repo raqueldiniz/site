@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Resumão ABNT para trabalhos acadêmicos (1/2)"
+title: "Resumão ABNT para trabalhos acadêmicos (parte 1)"
 date: 2018-08-15 00:00:00
 ---
 Se tem uma sigla que assusta muita gente é a tal da ABNT! As regras de normalização elaboradas pela Associação Brasileira de Normas Técnicas (ABNT) são um pesadelo para quem está na fase de elaboração da monografia, dissertação ou tese. 
