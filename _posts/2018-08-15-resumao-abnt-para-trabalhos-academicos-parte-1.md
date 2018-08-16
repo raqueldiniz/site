@@ -7,7 +7,7 @@ Se tem uma sigla que assusta muita gente é a tal da ABNT! As regras de normaliz
 
 Pensando nisso, resolvi dar uma mãozinha para essa galera e fazer um resumão dessas normas, as quais constam na **ABNT NBR 14724**, de 2005, intitulada _Informação e documentação — Trabalhos acadêmicos — Apresentação_. 
 
-Para o post ficar mais didático e também para não ficar muito extenso, achei melhor dividi-lo em duas partes: estrutura e apresentação. Hoje será a vez da primeira, claro. Então, vamos lá?
+Para o post ficar mais didático e também para não ficar muito extenso, achei melhor dividi-lo em duas partes: **estrutura** e **apresentação**. Hoje será a vez da primeira, claro. Então, vamos lá?
 
 **1. ESTRUTURA**
 
