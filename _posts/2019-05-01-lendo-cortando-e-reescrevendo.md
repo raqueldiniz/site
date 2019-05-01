@@ -75,6 +75,6 @@ Com certeza há outras técnicas que podem ser usadas, mas, no momento, só me l
 
 [Aulete Digital](https://aulete.com.br)
 
-[Michaleis](https://michaelis.uol.com.br)
+[Michaelis](https://michaelis.uol.com.br)
 
 [Sinônimos](https://www.sinonimos.com.br)
