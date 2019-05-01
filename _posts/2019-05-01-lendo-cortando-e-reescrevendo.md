@@ -73,7 +73,7 @@ Com certeza há outras técnicas que podem ser usadas, mas, no momento, só me l
 
 ** **Dicionários on-line:** 
 
-[Aulete Digital](https://aulete.com.br)
+[Aulete Digital](www.aulete.com.br)
 
 [Michaelis](https://michaelis.uol.com.br)
 
