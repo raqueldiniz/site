@@ -71,10 +71,10 @@ Com certeza há outras técnicas que podem ser usadas, mas, no momento, só me l
 
 ---
 
-** Dicionários on-line: 
+** **Dicionários on-line:** 
 
-(Aulete Digital)[https://aulete.com.br]
+[Aulete Digital](https://aulete.com.br)
 
-(Michaleis)[https://michaelis.uol.com.br]
+[Michaleis](https://michaelis.uol.com.br)
 
-(Sinônimos)[https://www.sinonimos.com.br]
+[Sinônimos](https://www.sinonimos.com.br)
