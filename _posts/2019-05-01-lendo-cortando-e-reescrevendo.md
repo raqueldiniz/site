@@ -25,7 +25,7 @@ Justamente por desconhecer o assunto, tudo para mim era relevante no texto, e eu
 
 De posse “apenas” do que julguei mais significativo, ainda havia muitos caracteres pela frente, os quais passavam looonge de atingir a quantidade solicitada. Parti, então, para a terceira etapa: reescrever partes do texto! E como eu fiz isso? 
 
-a) substituindo palavras longas por outras mais curtas e com mesmo significado, dentro do contexto, claro (aqui eu tive bastante ajuda dos meus companheiros inseparáveis: os dicionários*, principalmente o de sinônimos):
+a) substituindo palavras longas por outras mais curtas e com mesmo significado, dentro do contexto, claro (aqui eu tive bastante ajuda dos meus companheiros inseparáveis: os dicionários**, principalmente o de sinônimos):
 
 - comunicar (9 caracteres) = avisar (6c), dizer (5c), anunciar (8c), falar (5c)
 - assistência (11c) = ajuda (5c), auxílio (7c), amparo (6c), apoio (5c)
@@ -70,7 +70,10 @@ g) trocando a voz passiva analítica pela voz passiva sintética:
 Com certeza há outras técnicas que podem ser usadas, mas, no momento, só me lembro dessas! Rsrsrs! Excluir o mínimo que seja de caractere já ajuda bastante. Um caractere aqui, outro ali e, no final... Tcharam! Consegui chegar à quantidade esperada! Uhuuu!!! E espero que você também consiga quando precisar! ;)
 
 
-* Dicionários on-line: 
-www.aulete.com.br
-www.michaelis.uol.com.br
-www.sinonimos.com.br
+** Dicionários on-line: 
+
+https://aulete.com.br
+
+https://michaelis.uol.com.br
+
+https://www.sinonimos.com.br
