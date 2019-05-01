@@ -69,11 +69,12 @@ g) trocando a voz passiva analítica pela voz passiva sintética:
 
 Com certeza há outras técnicas que podem ser usadas, mas, no momento, só me lembro dessas! Rsrsrs! Excluir o mínimo que seja de caractere já ajuda bastante. Um caractere aqui, outro ali e, no final... Tcharam! Consegui chegar à quantidade esperada! Uhuuu!!! E espero que você também consiga quando precisar! ;)
 
+---
 
 ** Dicionários on-line: 
 
-https://aulete.com.br
+(Aulete Digital)[https://aulete.com.br]
 
-https://michaelis.uol.com.br
+(Michaleis)[https://michaelis.uol.com.br]
 
-https://www.sinonimos.com.br
+(Sinônimos)[https://www.sinonimos.com.br]
